@@ -31,3 +31,21 @@ li{
   margin: 0 auto;
   align-items: center;
 }
+
+#anterior{
+  font-size: 5vw;
+  color:black;
+  float: right;
+  margin-top: 50%;
+  font-weight: bolder;
+  cursor:pointer;
+}
+
+#siguiente{
+  font-size: 5vw;
+  color:black;
+  float: left;
+  margin-top: 50%;
+  font-weight: bolder;
+  cursor:pointer;
+}
