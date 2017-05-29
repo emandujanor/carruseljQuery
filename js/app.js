@@ -1,4 +1,23 @@
 
 $(document).ready(function(){
-alert("prueba jQuery")
+  $('#boton1').click(function(){
+    $(".image").hide();
+    $("#img1").show();
+  });
+  $('#boton2').click(function(){
+    $(".image").hide();
+    $("#img2").show();
+  });
+  $('#boton3').click(function(){
+    $(".image").hide();
+    $("#img3").show();
+  });
+  $('#boton4').click(function(){
+    $(".image").hide();
+    $("#img4").show();
+  });
+  $('#boton5').click(function(){
+    $(".image").hide();
+    $("#img5").show();
+  });
 });

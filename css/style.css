@@ -1,1 +1,33 @@
 /*style*/
+.center{
+  margin:0 auto;
+  align-items: center;
+}
+.image{
+  width:100%;
+  height: auto;
+  display:none;
+}
+.mostrar{
+  display:block;
+}
+.botonCircular{
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #BE81F7;
+}
+.botonCircular:hover{
+  background-color: purple;
+}
+
+ul{
+  list-style: none;
+}
+li{
+  display:inline-block;
+}
+.botonesContenedor{
+  margin: 0 auto;
+  align-items: center;
+}
